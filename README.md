@@ -1,1 +1,1 @@
-# projects
+# Paint project
